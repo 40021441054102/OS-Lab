@@ -7,3 +7,6 @@
 [submodule "OS-Projects-Solutions"]
 	path = OS-Projects-Solutions
 	url = https://github.com/40021441054102/OS-Projects-Solutions.git
+[submodule "OS-Lab-Exams"]
+	path = OS-Lab-Exams
+	url = https://github.com/40021441054102/OS-Lab-Exams
